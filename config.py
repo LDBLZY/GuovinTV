@@ -1,19 +1,10 @@
 open_update = True
 open_use_old_result = True
-source_file = "demo.txt"
-final_file = "result.txt"
+source_file = "my-demo.txt"
+final_file = "live.txt"
 favorite_list = [
-    "广东珠江",
-    "CCTV-1",
-    "CCTV-5",
-    "CCTV-5+",
-    "CCTV-13",
-    "广东体育",
-    "广东卫视",
-    "大湾区卫视",
-    "浙江卫视",
-    "湖南卫视",
-    "翡翠台",
+    "湖北经视",
+    "CCTV13",
 ]
 open_online_search = True
 favorite_page_num = 5
