@@ -21,6 +21,7 @@ url_keywords_blacklist = []
 open_subscribe = True
 subscribe_urls = [
     "https://raw.githubusercontent.com/LDBLZY/IPTV/main/live.txt",
+    "https://m3u.ibert.me/txt/fmml_ipv6.txt",
 ]
 open_multicast = False
 region_list = ["湖北"]
