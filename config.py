@@ -20,9 +20,7 @@ domain_blacklist = ["epg.pw"]
 url_keywords_blacklist = []
 open_subscribe = True
 subscribe_urls = [
-    "https://m3u.ibert.me/txt/fmml_ipv6.txt",
-    "https://m3u.ibert.me/txt/ycl_iptv.txt",
-    "https://m3u.ibert.me/txt/m_iptv.txt",
+    "https://raw.githubusercontent.com/LDBLZY/IPTV/main/live.txt",
 ]
 open_multicast = False
 region_list = ["湖北"]
