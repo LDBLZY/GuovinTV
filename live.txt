@@ -1,5 +1,3 @@
 广东频道,#genre#
 湖北经视,http://219.147.3.106:4455/newlive/live/hls/25/live.m3u8
 湖北卫视,http://219.147.3.106:4455/newlive/live/hls/25/live.m3u8
-央视频道,#genre#
-CCTV-4K_超高清,http://219.147.3.106:4455/newlive/live/hls/25/live.m3u8
