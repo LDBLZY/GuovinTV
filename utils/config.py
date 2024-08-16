@@ -24,7 +24,7 @@ def get_config():
     Get the config
     """
     config_parser = configparser.ConfigParser()
-    user_config_path = resource_path("config/user_config.ini")
+    user_config_path = resource_path("Myconfig/config.ini")
     default_config_path = resource_path("config/config.ini")
 
     config_files = [user_config_path, default_config_path]
